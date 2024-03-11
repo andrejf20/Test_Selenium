@@ -1,0 +1,7 @@
+CONCLUIÓN:
+
+ Se ha realizado la compra exitosa de 2 productos, pudiendo verificar al final un mensaje de éxito de confirmación.
+
+Todo esto, realizando un inicio de sesión con usuario y contraseña, para lugo elegir cualquiera de los productos existentes y agregarlos al carro de compra, seguido de ingresr una serie de datos para completar la compra.
+
+Esto refleja una prueba E2E completamente, abordando todas las casuísticas reales que pudieran ocurrir. Esto sepudo realizar bajo un ambiente rápido y estable, sin embargo imlpementamos un tiempo de espera mínimo de 2 segundos luego de iniciada la sesión. Finalmente la prueba culminó exitosamente con todos los casos de éxito planteados en la prueba.
